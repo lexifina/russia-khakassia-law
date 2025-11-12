@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Республики Хакасия "О мировых судьях в Республике Хакасия"
+Document type: Закон
+Number: 64-ЗРХ
+Date signed: 2025-11-11
+Publication date: 2025-11-12
+Publication number: 1900202511120005
+Signing body: Республика Хакасия
+Official publication page: http://publication.pravo.gov.ru/Document/View/1900202511120005
