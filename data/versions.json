@@ -1,0 +1,1229 @@
+{
+ "country": "RU-KK",
+ "acts": [
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2015-03-11",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "001942d759b37c7f23dab1e6f7df1e2c75e3a7fbb2868d325dbfb6b65bd7a4fb"
+    },
+    {
+     "from": "2015-03-12",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8adfb9f9817181341a7a58ddc7368f2a0e9c3a9ef02c38657f9f028a1a79f33f"
+    },
+    {
+     "from": "2015-04-15",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "2f2a670639dfb7539c6353ed855e52cc0b0c3b4469e703fa2bffc140bfaaea7d"
+    },
+    {
+     "from": "2015-05-15",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "1e265e39b0c82a5da7bb47d184256ecfaddc2e8f4bd1ab23116d8554dab94bdd"
+    },
+    {
+     "from": "2015-06-01",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "243b8c54d483548df54c7f65585cf818733f94a133a880c1c1f70b96e10f61bc"
+    },
+    {
+     "from": "2015-06-11",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "d74c2719244544cf6d73531bd59b72a551850c9db3c54ef57e65d04250a48c02"
+    },
+    {
+     "from": "2015-07-15",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "89eaf78a0749276b9d8d7f4b1f05efb358673c966e2d11d8bdb62bce9d5f1b05"
+    },
+    {
+     "from": "2015-07-17",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "61c9af1433abf46f22b4eda6c3f505ee489e65095c9ecbd12678228fbf9b3a6c"
+    },
+    {
+     "from": "2015-10-05",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "ed4b5e15c74a64321d52507b4752ea983c82671e52f48fe8f5e83b68bc96901b"
+    },
+    {
+     "from": "2015-10-13",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "e19c30a59033c005d425b297aef4d7af195bb373e85204f855898e5214c0a78e"
+    },
+    {
+     "from": "2015-11-09",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "3349e7888c3de015be3aba52441a499faac921f3e0a0e1ad005c0aaa13dc18ed"
+    },
+    {
+     "from": "2015-12-09",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "f3710995f599fbffd9aecc2929ed0b87b77b84ec4e003ea40a6f96fda23fec53"
+    },
+    {
+     "from": "2015-12-16",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "c2e69f534815019be1806272a03383e8a0ecab395e3ef280a22bc68379d583cd"
+    },
+    {
+     "from": "2015-12-23",
+     "units": 117,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "ff3571a413e5d0014f125c7d8e638be949de7e1549ac5af84bd8cc33bbb34075"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2016-02-08",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "2b2f7ea38bcc39ad392c514a5c0124508f0dd008a29b9d94bc5097d5423ebae8"
+    },
+    {
+     "from": "2016-03-10",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "399af542130c9e6e3a8a2e111b8bc54e4809478232a4357feb0f11ddf3748f08"
+    },
+    {
+     "from": "2016-03-11",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "66a37089e78f8e5a8c86b4e7506dee4fddb61e0ea7b10afeec7e83cab0c649e6"
+    },
+    {
+     "from": "2016-04-08",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "596e94f9f1dd9deb792f2322fee437b2b0d5c4c07e1ec657887da7e9b1d5bfe5"
+    },
+    {
+     "from": "2016-04-12",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "71800759ec8969048384bc3695eaa997933ca69caf7ba2c82fa5a31a9710c037"
+    },
+    {
+     "from": "2016-05-05",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "0a515bbcc2e38a811871ca8b6bfd164d7076dbf3e2029c753835077b4e268d7c"
+    },
+    {
+     "from": "2016-06-07",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "c6921a24da34a9a3029dd2740197f8d1cd5fc7cf539539828e3c2d27c6ef3522"
+    },
+    {
+     "from": "2016-07-06",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "e2bb36a610dc35a2fcd890ffd08261b56017a1db13b13da93e1d667603f57a13"
+    },
+    {
+     "from": "2016-07-07",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "1a5e97de865a6189a6092f673a2ca7e4b57b0c1840cfc7eb2282c6d459bf8fbe"
+    },
+    {
+     "from": "2016-10-04",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "050c2b79151dceedc4ad3b3449aced1e5799787ec3fdbdef609f47cc30b77064"
+    },
+    {
+     "from": "2016-10-10",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "2162e9c741a3b26ad2289605993bb386bd942fe2f74925b40c405b494b5381cc"
+    },
+    {
+     "from": "2016-11-08",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8e4e69e61c71d359dd565331e0e93bbe1f07ac198eab8cad4b5b76c2acb95fad"
+    },
+    {
+     "from": "2016-11-10",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "db932101e0d3d1eb58de6cba116b7f78ba1db732af4024ae1a15b1c7e8f4bda0"
+    },
+    {
+     "from": "2016-11-14",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "1b0829029e6851101e74fd65a87e4e539cab163b49d660e363f79af3a8cdf97b"
+    },
+    {
+     "from": "2016-12-08",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "e6fbacbb57d41c6218016081e6cbf4acc271bbb33e46d5adb384122809a66cbe"
+    },
+    {
+     "from": "2016-12-12",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "fd5be8f9a182f8dd3f3f76ac1ac4e3ee0c9d3560a3501d68de8e18ebb8539f9e"
+    },
+    {
+     "from": "2016-12-22",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "3b476c281dc099301091e40efe99f86b563f94469b269927c2dcd080ebcb9c91"
+    },
+    {
+     "from": "2016-12-23",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8ba0c843808812133d55fce0b4146d03108ad1d3b4d8b7ae195d4b5dc1b70e5a"
+    },
+    {
+     "from": "2016-12-28",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "0f5191b761d9ab4c19f6ab8682e38ce4058214755019988618e59a4cdbb79b60"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2017-02-15",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "c5e667ee4527b3b3f2210eea98fa03ba2d6f6bd2855e9206e0c1b4f4b2d521a0"
+    },
+    {
+     "from": "2017-02-17",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "b3854270b99859789d9599f60c1c1991224fbf474306ccb562f2a82074270653"
+    },
+    {
+     "from": "2017-02-22",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "52e85fcbfa963476e9db7f1b5248d8a9058be8a4ebddf1ea47aa5eebb24a4121"
+    },
+    {
+     "from": "2017-04-11",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "e57cc357507b31aee5257bff6ccd26ef29da864a48c158c96aca7809f4d6b6d8"
+    },
+    {
+     "from": "2017-05-10",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "ef7d34ecd644e09d32b36981cd81e9f5b7e94b03b0e97e9737220d957c4a538d"
+    },
+    {
+     "from": "2017-06-14",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "1c84d65044e54ab262b993d0f957e5ac7919fee8ad4828e8fc6e06aeaef92bbf"
+    },
+    {
+     "from": "2017-06-20",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "bf43d9098f1aa988826e1c3f8821585ab62c04c536b5d14671d3a123e92798da"
+    },
+    {
+     "from": "2017-07-03",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "c4274dc94678bd630e73429fee66f7d5dfed2790858555417b4a25d536bf1d94"
+    },
+    {
+     "from": "2017-07-07",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "f04dbe27f87f96de5db3807fe9e37a08d54bdefca3b048da7d952d0054bf4edf"
+    },
+    {
+     "from": "2017-07-10",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "1f1de717547a01c8a2328189615862317edadf65e561b1791594de9adf774090"
+    },
+    {
+     "from": "2017-07-18",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "e6907c4419f056d68ba27909991f716b72d556de4c05d74d0b27e26a102af1e4"
+    },
+    {
+     "from": "2017-10-05",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "741ab12b6b7353b6532c1bff20dd7720fb5bdbcad2c07037330d24dda1199e2e"
+    },
+    {
+     "from": "2017-10-30",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "ba68cb1ca7e749251b8a2be3a6fd5d7d88954463ed67888fa96f79b1cfe838ed"
+    },
+    {
+     "from": "2017-11-01",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "06702e9800bd27439fa7ebfec8084ceff88920c5f69693de24b981ebd14b9acd"
+    },
+    {
+     "from": "2017-11-10",
+     "units": 80,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "c15afb9defba1c1922b74bf0ab44f818044a6a43ed438945194d3c74c365efdf"
+    },
+    {
+     "from": "2017-12-04",
+     "units": 81,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "ed6293ec9de3657c131b9d990f67f8d3eb71fd434617f1ff51a77a61133fcb73"
+    },
+    {
+     "from": "2017-12-12",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "975b0f07ffcaae742d8aaafccb9bd52d27088600bffd78d634bac99148e27c12"
+    },
+    {
+     "from": "2017-12-19",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "176e4aafe1fad013c0afcb6b37ed89099339826005bdf9d9fc7fd054449ee2ba"
+    },
+    {
+     "from": "2017-12-20",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8990a548d243d91bb4640911024cc5974f325776f05221c621f1bbabff18942b"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 104,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "f1119790c86956a8e7fe9d383eabecfacfca297fa31f93db212f064034afeec5"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "0c9b76a8d06075cacfec3829a6aedb92ec8ccab3d0cdde9ce26dd8d439c47788"
+    },
+    {
+     "from": "2018-03-12",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "ebf300d431b8a3e1baabc29460e9132e5415774af45732c510d9193ad8c0bf5a"
+    },
+    {
+     "from": "2018-03-13",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8417a0660f215bc00886e7efb99a4a343e4f9c2202df71dbf86b3e63a770399e"
+    },
+    {
+     "from": "2018-03-23",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "79b6581659e9e04006c08f3c5e1ca3d16a332e904a19b7ac60298f3e988bcc04"
+    },
+    {
+     "from": "2018-04-09",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "88379787da11b650219922d38560726376167d9edcdebdd3006b14e60cb25264"
+    },
+    {
+     "from": "2018-05-04",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "b3835c24ba63bb86e0a1662ce37adcf86f3acf36ff385b0c484ae573cae239e9"
+    },
+    {
+     "from": "2018-06-07",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "fc515830e41004296395c94306334fcc7268654e835bbfb3d55f77ea9c474897"
+    },
+    {
+     "from": "2018-06-14",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "41945482769c70d6769a81946236d8b9a297a740b9c71b6ff827bdc41e0544f5"
+    },
+    {
+     "from": "2018-07-18",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "5593aa9278cfe19938446f5a29da93b040b2e1c8a63c08c0cb575657eb658f37"
+    },
+    {
+     "from": "2018-10-18",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "4b742b68209705cce79cf31ee7755bf6d57a5f8543620db629615ddc092adfe4"
+    },
+    {
+     "from": "2018-10-31",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8571bd94bdd8d07d6b9afdf9893d5741e0a6f906aaf4310059904478a4ba490a"
+    },
+    {
+     "from": "2018-11-29",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8aed0a87b13942700f7351da05cd0790a0d0c0f76dfc23f596cc8440764493f4"
+    },
+    {
+     "from": "2018-12-13",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "c0c11831a95d768e5db2e80f612f736f2c10ac29f0749b378eebb96396779b63"
+    },
+    {
+     "from": "2018-12-14",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "0359f3dacb4b4a05749e5ab93e56773d010d7a98d4e2998c9534a1154cb79bc4"
+    },
+    {
+     "from": "2018-12-19",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "a858ba922ebe2e9510b98b4df13278c46c26db7b2e4db6d2f7461f6d6b63954c"
+    },
+    {
+     "from": "2018-12-24",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "4c03a6288a81885a8be41fd3c205ab19a4eafe252469813d55216fc568f02ed8"
+    },
+    {
+     "from": "2018-12-25",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "b16a4fabb78bdad08c4cf9f39b7d761623740f94f581bec7b0e40dc18cfe27e7"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "4ec6a3962117826486e9dacb7cbb58fc586c27a78bea3fed84deb063fa8d89b8"
+    },
+    {
+     "from": "2019-03-11",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "a85582b50262bde9fc6d60b87d9c7dbbd264a7b88d23b9aca3c42a3a128b5cdf"
+    },
+    {
+     "from": "2019-04-22",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "fdb68b28334a453f31b93b35b72dc096440fdbadf4fb6be88cf30bae191efa30"
+    },
+    {
+     "from": "2019-05-13",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "3002cc03643a18c7850f4365bbc7cf39afb4ce1920b1be61d655e8b2cd91da15"
+    },
+    {
+     "from": "2019-05-14",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "b9f323db186b3ea5ec343a8876373be66e15c57f24dcf2ee6b6a785fe9ad6c66"
+    },
+    {
+     "from": "2019-06-11",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "758096ccdcd96fd1db3b791b0d6ad305c9088cb2019f505cb56a11eb55a25e90"
+    },
+    {
+     "from": "2019-07-16",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8e12516a1009de8e194913cabca0cfa6867103be8e50ec5774057b0abdb8721b"
+    },
+    {
+     "from": "2019-10-08",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "25d873f398430b07d0c49a2d4b798de0075555e8d2b3e615fe10478fd11631c2"
+    },
+    {
+     "from": "2019-11-12",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "51b7ced9eb59c63dc0afdc032d97beae591023db297268987beffad61fb4264a"
+    },
+    {
+     "from": "2019-11-28",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "cf5e54363360042365bfa516dd722e26c06e29eda8a228d7529d8570c9f11a91"
+    },
+    {
+     "from": "2019-12-05",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "d6c1ef4b84578dd098cc1146802d3e4f80b430338193cb742c386555b1ec0bb8"
+    },
+    {
+     "from": "2019-12-20",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "42930cbc7bce7fe12b61f9a2e97da287b7aa95ae31a764ec505479487504069e"
+    },
+    {
+     "from": "2019-12-24",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "bc55db84c41241722862bed0bf0c875d838d53eaa0d14a3f9e3a0b2d51e6cf35"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2020-02-14",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "4993d23ed783caa45dca93f5b5856e3a4459a9364e5efacfc5a81e4593875898"
+    },
+    {
+     "from": "2020-03-10",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "7db378cbaf9b0df56b12fc9a1820ff017fcf5c541e54cb1b10d8c1b8f63f6a80"
+    },
+    {
+     "from": "2020-05-29",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "19c0e2f430b7ef90d4e7e02745d47ffc1884826df065f5f419a09ba1d8a20928"
+    },
+    {
+     "from": "2020-06-10",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "abfe9630bfe001854cfabec8af5358252fd3039e7adf8fa5d87cbe5dfe21c7bc"
+    },
+    {
+     "from": "2020-07-22",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "098434540d3b291d1bcd8f3e97c148022b391be219c2ba4b13ae685bd2ad02d5"
+    },
+    {
+     "from": "2020-09-30",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "1324c114ef84b418de83268068401b4cbc23d2dd940afc9355b71e8fac394a13"
+    },
+    {
+     "from": "2020-10-15",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "4f160c2211c4627a2de5c5636499452cd599425987e5df552698a182c0660ccb"
+    },
+    {
+     "from": "2020-11-18",
+     "units": 76,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "9f4beb4d534436ca1aba6018a9c2b98a731a8126e2e55ab9c2360021bb4093bd"
+    },
+    {
+     "from": "2020-12-01",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "d0c985faf55fb1b02117a260cb0d45cfea48ac6578177ab12b561740a966b82d"
+    },
+    {
+     "from": "2020-12-09",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "a747f099a2b9b587975608e4b77394b4738d124501c1e7a2b750ac096c4f1b15"
+    },
+    {
+     "from": "2020-12-18",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "9398ef12fe8c71949626305b11b35f7de1314f5a3e56630c8bcdcf237601e15c"
+    },
+    {
+     "from": "2020-12-22",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "d43061c79f15834475e3dbbfb41cf51402b7636cbf0c0d286addac4ac749b75e"
+    },
+    {
+     "from": "2020-12-25",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "424bbef51e14f42cd04f62bb9edb59c66fbb3d1daf1047cfbf1221d17b8a85f5"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "e1c5c8ecab42e2c8f97ed4f11170ee0339ca84c23b6b3ddb6dca06890e1aff5a"
+    },
+    {
+     "from": "2021-02-26",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "915725f579f66e116291fcce20ddaf7e89bc3201c0268dce75e64e5000f70970"
+    },
+    {
+     "from": "2021-03-12",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "227f9b19a6a42784d98a24cfad5a5b30524d0fe156038a237fe4e8a5f125ea66"
+    },
+    {
+     "from": "2021-04-13",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "b67f1b7d30a46110372d2e06f504fb0e4f4a17c49440d700a02ef31337b374cc"
+    },
+    {
+     "from": "2021-05-04",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "65159a2d7a08cea307913c9e8ea5660775b79f6e5c04b0ee29bdbc4888cc8141"
+    },
+    {
+     "from": "2021-05-12",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "3b8d18ee00978d33cf55e1f484d4041b7700e47fcac48e45dec48414841ddd04"
+    },
+    {
+     "from": "2021-06-22",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "0fba12ecfe623e4469b28df081d6701ad1bde24e1b98fc403174c0a0300c7df8"
+    },
+    {
+     "from": "2021-07-07",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "b8f0de6a6f1ca19df3c42c455649b9ebc1a75c6c5b6728184e2a594d8962bec2"
+    },
+    {
+     "from": "2021-07-14",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "d78241ca06efdf16350ae77692a72f315bc700a8beb4d69b4d396bcd4b919652"
+    },
+    {
+     "from": "2021-07-16",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "97bcf471788bb92c5f1768795f1938d2da794e2af7d565e6a00d3bb7fa76f88c"
+    },
+    {
+     "from": "2021-07-23",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "4e8911464f8ba382f53c45c11aef15fc03d30e601433756313cd05420876aac8"
+    },
+    {
+     "from": "2021-08-05",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "7461c8da3e68f9b3afe75b8fee4df68e1f788100ff0db1a80f16b98b946e1885"
+    },
+    {
+     "from": "2021-10-13",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "ea3cccc73e53db480ecaada4249ced1b410a9231f8ef8f7423fe087cd7ffc122"
+    },
+    {
+     "from": "2021-11-10",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "c2b7f3979bd87a1a5738b02c56df63724b5654b5fe63d43a929912e3b98a1c28"
+    },
+    {
+     "from": "2021-11-29",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "c4646048ff9d0cc522471474bcf98cd4e3659a031ecd60239893b9b23f7ec48f"
+    },
+    {
+     "from": "2021-12-06",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "475007ec877fb76198dde5ea9c7ca552b12f5e4cde3708f1dd02f053e250652c"
+    },
+    {
+     "from": "2021-12-08",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "5905a9b02416d645aeb6bce28a2be4b81abce4241905ad1695724eb608441ace"
+    },
+    {
+     "from": "2021-12-10",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "5d555fc8110882136b98713c5614f087311e08a4495ab82aa8a8e8d70e960efb"
+    },
+    {
+     "from": "2021-12-20",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "6c2656ff400edd21f7944806435d5d6e4dbce30760ed47ce950689210db71a8f"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "46c88782cfad5abdc7b476ba5b2182a42996b15b23e0f95d21376f3de9ef21e8"
+    },
+    {
+     "from": "2022-02-11",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "d2f90c90d58359cabd314168ac0fcefd39f1482836d910fd1ed8ce73ffccbec1"
+    },
+    {
+     "from": "2022-03-14",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "38d39758e38835a838f3993c7e5b0759a05a6a11914c58c52375ecd175fe8b85"
+    },
+    {
+     "from": "2022-04-11",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "d71fac3ad7f3b5277ba39e91efa4a3e6012ed5298316b3cef7a3753ddb85ecc9"
+    },
+    {
+     "from": "2022-05-04",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "5cdcbcffe3d4c559348bee70f5f4ebc9abbcc507adbee91366b0df756460b759"
+    },
+    {
+     "from": "2022-06-02",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "535efebc68f6998605d4eb85bc032b02985191e5da62b8244a54720d80518468"
+    },
+    {
+     "from": "2022-06-15",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "59c661b809d319a5e15fb4c54bddb2ce6ceb4d80801e66a2a405429ee8df22a6"
+    },
+    {
+     "from": "2022-07-26",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "d5aa11af1f212cdabca1fae6b2bcef820e13353460671162aacfe5628f528281"
+    },
+    {
+     "from": "2022-10-13",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8fc033e1093115977114a599e96e588c5f0cbb14ef707dc9f41c9fa05d6de931"
+    },
+    {
+     "from": "2022-11-03",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "500da22e8fb6a92c99581467d05a6d51e40ae86f54ee1556e6bea54b30da3be4"
+    },
+    {
+     "from": "2022-11-29",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "9074eddb160a245e0f8a030cb263d3ea9caedf1ed8b5d946aebe5573be1727fe"
+    },
+    {
+     "from": "2022-12-19",
+     "units": 110,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "2a274b8856c8850b074c25a241fa3362173bdbc6be8ddfc24c619137f5345c28"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8e0a139c7071bb0d3c6e84fbeae25c556e4482522a4eaf7c2e5caa897b437266"
+    },
+    {
+     "from": "2023-03-14",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "148dbf5967f457c487e70293f6c3c6beb5abce019c507833459ccaaf24ccdef3"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "68490bf2055abbf47c3f72e7a5cd634e8561c82cef85fff38ded99ba6e9d9c2c"
+    },
+    {
+     "from": "2023-03-29",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "fef5ebb58c363388a17b8e073776b5bcba4cf7a7a97e6914dc285f0aba2df36c"
+    },
+    {
+     "from": "2023-04-11",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "eed111783e1e1dac90c1201b4efd8b5bfa9cd101d2f77b8f7037229be8c30a45"
+    },
+    {
+     "from": "2023-05-05",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "eea5a45339e3466e0162f78b7c922c609eb8fe8bc0cdd5293da2d06d221199c3"
+    },
+    {
+     "from": "2023-06-21",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "530a37c6d9b04ca584273bd4abfac5fee281003cdb01fb52e7dc7100648b4b6c"
+    },
+    {
+     "from": "2023-07-12",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "a27e27c5ce14a4434d4061b7f87276fb2c811147dc351185ffe82e36e7748b8a"
+    },
+    {
+     "from": "2023-07-14",
+     "units": 68,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "4152a84cbba44a9fed11d4dbce078a81b47f95ed6547a3ff4a7a6a8227a7cd42"
+    },
+    {
+     "from": "2023-10-23",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "f97bc9b727a74c6b0f41bcdd2abdcd288074deb03fc2b4ada76ce4b5df9125b8"
+    },
+    {
+     "from": "2023-11-20",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "28ed249b681da2dba694f3c164d1e1c840613b92fbdb05380be4108697a76ada"
+    },
+    {
+     "from": "2023-11-29",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "4f8276b74e98c4d99d23198de3bcc3443fbdd8451baed149f0de246e7938ea32"
+    },
+    {
+     "from": "2023-12-13",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "c03675d08d565714f7fed707ec888c1e9ef09ab203ec2b5e8901374a3aec4ca2"
+    },
+    {
+     "from": "2023-12-20",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "84e129b75e61a7247c6b0608ae88cd5ff85cc9f3c7018d55238fd89ade57d159"
+    },
+    {
+     "from": "2023-12-21",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "a04e0d39dd37485fae60df8672fe869b0b3de6302b9f1205a5d08410ca37137e"
+    },
+    {
+     "from": "2023-12-25",
+     "units": 97,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "bcf9e3572a2a709deed278f5d44d5770e199f3328c2fbab0d388de68fe4f480d"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "eef56d8fe1b1344a91a024c009dd30ca630f3d73bf77341e77dbea47955d5a26"
+    },
+    {
+     "from": "2024-03-19",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "e2467a2df17286d5212d71e26895dc28ba4f110c287ed601e0709cc62580b378"
+    },
+    {
+     "from": "2024-04-09",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "dbbbdc1161e015c6cbccc7514b60b0686d3473759c5dae48b1d205156aaba47c"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "59fc67ce33e4d107447cd8b7b2920ab5cb26ec17f8ea32c5d7ea873ebc8a6b05"
+    },
+    {
+     "from": "2024-06-14",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "64f4f1f230f8ec7ce56f2de32f8a08b8f0b5936b70e8ea81c1bd9b57244ee6bf"
+    },
+    {
+     "from": "2024-07-18",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "696b60c0740140e5cf8707d0817f33a3c5e844bfd9e48fe2b82d50b5d665c023"
+    },
+    {
+     "from": "2024-08-22",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "6409e4e392be668fd72c32a7e4703f987a2dd9910bda4e5630bbbe254c872a20"
+    },
+    {
+     "from": "2024-10-09",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "3b29a02b4a2e7583aac51ce5d94a5bf53a835a2a0984ffe4c5bb2b1ae07d3da6"
+    },
+    {
+     "from": "2024-11-07",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "ab63ff0638e310d0eb9c1e02a118a96cab770425fd2240c453ec79dbb56114e8"
+    },
+    {
+     "from": "2024-11-13",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "411ab6a44d28946805a52f3f6a975f0a438740687019087be64240fdd4066514"
+    },
+    {
+     "from": "2024-11-28",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "44d021b683a88c04e0f4e4dac1af0e1f04bf74b27e1594b8bdc5f97003a586fc"
+    },
+    {
+     "from": "2024-11-29",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "b2402752c67fb3afbcc239626e378f490095dab9c83f3e7c11ec36e10398d462"
+    },
+    {
+     "from": "2024-12-10",
+     "units": 98,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "3b6964d40fcc28a985ab77b66a06f5fb0cca160d1c3764dcd774794ef5877a2e"
+    },
+    {
+     "from": "2024-12-24",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "4ccbb2cd572ead942a721ce56121d73322ff62952cff7d09129c56b1a3c7ac08"
+    },
+    {
+     "from": "2024-12-25",
+     "units": 106,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "84e87d3ad51b4b408dfc43e68c1340389755d9fa290da8b6c1d4d583ae7c29b7"
+    },
+    {
+     "from": "2024-12-27",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "e877f2fe3266b9d9bef306a860015db7720bb1af578ed9714029325e85e84970"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2025-01-10",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "fef4195d455820b8a998de6350a20a651de985ea63cda0e82d435aaea49ab146"
+    },
+    {
+     "from": "2025-03-14",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "63d179b2f0ee3161ed1ca2d51703262dc369d589cab7925b3713ce5724c6acea"
+    },
+    {
+     "from": "2025-03-31",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "b5fa90e56c4fb3587148ed037f5b29145ca17e926167a9f3079771d6d5a75c5e"
+    },
+    {
+     "from": "2025-04-09",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "edf88d75610e0d1bbe98e60cba124472da89e242b0df120ca5ad1a5dc4ae73df"
+    },
+    {
+     "from": "2025-04-17",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "37028c074ef39e571a524d2facb8bd58448779ab0cf743bbf43aba82de6af298"
+    },
+    {
+     "from": "2025-05-29",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "dcabc37aaa56f50dd43e6d2bfc5cd7838a7d7b8f311fba997ac0cfc1b86d076c"
+    },
+    {
+     "from": "2025-06-04",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "3969b66ec705a1f1bc118f66695818e386c692ea0e8f596265fddb1fac3999d0"
+    },
+    {
+     "from": "2025-06-05",
+     "units": 40,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "30493844746ae00c7f4cef5ddb5a847941cda5eaf737a95db9a72c824d3ed7a3"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "7a5d508f5f79a5865d4669e1d4dd5865dcc9eb2a1175d6a75850b0ee738f3c48"
+    },
+    {
+     "from": "2025-07-17",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "d464a635ecd27784a747663e9c2fbc455174700fbad0edb77387d693655b9398"
+    },
+    {
+     "from": "2025-09-30",
+     "units": 56,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "abc54ff27e611340078944f828855e98653dbffe86b8b7102a75cbdcc191ba94"
+    },
+    {
+     "from": "2025-10-09",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "0b27adf872ead6781567b629fdac6c3770d3d103ddce3728b19c2c7a2b538e35"
+    },
+    {
+     "from": "2025-11-06",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "79766bbf72a778154579bcaf3d2822625bd8413dcfd83c99cb0ca95240c02c11"
+    },
+    {
+     "from": "2025-11-12",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "12d844408d3c90abf13fb352cc90307becc304b722f00a64d9f46d9438f21182"
+    },
+    {
+     "from": "2025-11-28",
+     "units": 74,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "bfd1e5e6d7ee92aea361a025bd9f0d7df9cf75e9f02e7811cf35770f17b99411"
+    },
+    {
+     "from": "2025-12-09",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "2ef84aca8129e06ad4df2d7eea273cf372c887b4fd7a613fcac262b46626aa31"
+    },
+    {
+     "from": "2025-12-12",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "17cfbe021ed8f2eb75923966862b22b3baf750b0a6e50bd544a42cd3da90e2df"
+    },
+    {
+     "from": "2025-12-19",
+     "units": 94,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "25a7f27608426982905222ce07b9052afcdc1cf8a9563738fc9ea5d0c6709128"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Republic of Khakassia: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region19",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "bb5ed5a89128e465bf13f0d8f8b465111ad73c6c6966a941fda948718ccc4f69"
+    },
+    {
+     "from": "2026-03-16",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "417666a18aa6553b4a9a637a62a2167611679fd7dfd011ca459e3302c4f9f80f"
+    },
+    {
+     "from": "2026-04-08",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "e7289a6d514b1d983154931e4510bf205de6e49c8b9bd738c7603c311947b24c"
+    },
+    {
+     "from": "2026-05-12",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "2b47d766a85a4e906ee3b8e376b33cac742fd2b524ed172a97fbca18cf0ebfb8"
+    },
+    {
+     "from": "2026-06-09",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "160333d0b7f94babb83f92642261f4afb27d46bbe596cafd2e4c38c3d55f0d67"
+    },
+    {
+     "from": "2026-06-11",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "e471191c87e6075c4d087e5a6ffc2914ec4fdcd941ddcf8cdbaf072d8d3275bf"
+    },
+    {
+     "from": "2026-06-19",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "8f7a158b79485ec0328bde9bbef11ed2ed9793b297eb665adafe8a879dbf3c1d"
+    },
+    {
+     "from": "2026-07-15",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "eb6380b0a7522f8719006befd363d189b689f8efb763a32e154c801f8a787ead"
+    },
+    {
+     "from": "2026-10-12",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "c0f5cf78c5be8daaea65c3d8d81a29a27b3fb1a84ccb8bcd2d21f05e2aac3175"
+    },
+    {
+     "from": "2026-10-14",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "dd70d25540ea86be4205d75d285b286d5d8ae96677b3b383c1c6dc865f5a5910"
+    },
+    {
+     "from": "2026-10-15",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region19",
+     "sha256": "7306080c0cfe4819a67610dc33c07f2790f4b03e7b6810d624a3b3ed669026f2"
+    }
+   ]
+  }
+ ]
+}
