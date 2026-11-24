@@ -1,6 +1,6 @@
 # Republic of Khakassia: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 11 versions, from 2026-02-12 (latest in force: 2026-10-15) · <http://publication.pravo.gov.ru/documents/block/region19>
+Законы 2026 · 13 versions, from 2026-02-12 (latest in force: 2026-11-12) · <http://publication.pravo.gov.ru/documents/block/region19>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -14,6 +14,9 @@
 | Закон № 08-ЗРХ | [08-zrkh.md](08-zrkh.md) | 1 | 2026-03-16 |
 | Закон № 09-ЗРХ | [09-zrkh.md](09-zrkh.md) | 1 | 2026-03-16 |
 | Закон № 10-ЗРХ | [10-zrkh.md](10-zrkh.md) | 1 | 2026-03-16 |
+| Закон № 100-ЗРХ | [100-zrkh.md](100-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 101-ЗРХ | [101-zrkh.md](101-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 102-ЗРХ | [102-zrkh.md](102-zrkh.md) | 1 | 2026-11-12 |
 | Закон № 11-ЗРХ | [11-zrkh.md](11-zrkh.md) | 1 | 2026-03-16 |
 | Закон № 12-ЗРХ | [12-zrkh.md](12-zrkh.md) | 1 | 2026-03-16 |
 | Закон № 13-ЗРХ | [13-zrkh.md](13-zrkh.md) | 1 | 2026-03-16 |
@@ -87,3 +90,19 @@
 | Закон № 81-ЗРХ | [81-zrkh.md](81-zrkh.md) | 1 | 2026-10-14 |
 | Закон № 82-ЗРХ | [82-zrkh.md](82-zrkh.md) | 1 | 2026-10-14 |
 | Закон № 83-ЗРХ | [83-zrkh.md](83-zrkh.md) | 1 | 2026-10-14 |
+| Закон № 84-ЗРХ | [84-zrkh.md](84-zrkh.md) | 1 | 2026-11-06 |
+| Закон № 85-ЗРХ | [85-zrkh.md](85-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 86-ЗРХ | [86-zrkh.md](86-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 87-ЗРХ | [87-zrkh.md](87-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 88-ЗРХ | [88-zrkh.md](88-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 89-ЗРХ | [89-zrkh.md](89-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 90-ЗРХ | [90-zrkh.md](90-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 91-ЗРХ | [91-zrkh.md](91-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 92-ЗРХ | [92-zrkh.md](92-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 93-ЗРХ | [93-zrkh.md](93-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 94-ЗРХ | [94-zrkh.md](94-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 95-ЗРХ | [95-zrkh.md](95-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 96-ЗРХ | [96-zrkh.md](96-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 97-ЗРХ | [97-zrkh.md](97-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 98-ЗРХ | [98-zrkh.md](98-zrkh.md) | 1 | 2026-11-12 |
+| Закон № 99-ЗРХ | [99-zrkh.md](99-zrkh.md) | 1 | 2026-11-12 |
