@@ -1,0 +1,120 @@
+{
+ "generated": "2026-11-24T14:00:42Z",
+ "latest": {
+  "pravo-khakassia|russia/khakassia/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1238,
+    "current": 1219,
+    "gone": 0,
+    "held": 1219,
+    "newest_in_repo": "2026-10-15",
+    "pending": 19,
+    "repo": 1219,
+    "source_in_scope": 1238
+   },
+   "check_id": "ru-pravo-khakassia-20261124T135101Z",
+   "commits": {
+    "count": 3,
+    "from": "87d719261a9d3c71235914d19c164be3f1df01a3",
+    "to": "6c1fa636775ccc027f2c50bde41de2a594d39347"
+   },
+   "corpus": "russia/khakassia/acts",
+   "error": null,
+   "finished": "2026-11-24T14:00:41Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region19: 1238 law-type documents listed (every page read); 1219 held here; 19 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "1900202611060001",
+     "1900202611120001",
+     "1900202611120003",
+     "1900202611120004",
+     "1900202611120005",
+     "1900202611120006",
+     "1900202611120007",
+     "1900202611120008",
+     "1900202611120009",
+     "1900202611120010",
+     "1900202611120011",
+     "1900202611120012",
+     "1900202611120013",
+     "1900202611120014",
+     "1900202611120016",
+     "1900202611120017",
+     "1900202611120020",
+     "1900202611120021",
+     "1900202611120022"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 12,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "1900202611060001",
+     "1900202611120001",
+     "1900202611120003",
+     "1900202611120004",
+     "1900202611120005",
+     "1900202611120006",
+     "1900202611120007",
+     "1900202611120008",
+     "1900202611120009",
+     "1900202611120010",
+     "1900202611120011",
+     "1900202611120012",
+     "1900202611120013",
+     "1900202611120014",
+     "1900202611120016",
+     "1900202611120017",
+     "1900202611120020",
+     "1900202611120021",
+     "1900202611120022"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1238 law-type documents in block region19; newest published 2026-11-12",
+   "source": "pravo-khakassia",
+   "started": "2026-11-24T13:51:01Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 2,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 190,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
